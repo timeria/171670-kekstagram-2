@@ -1,7 +1,8 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Диана Шайсултанова](https://up.htmlacademy.ru/javascript-individual/2/user/171670).
-* Наставник: `Неизвестно`.
+- Студент: [Диана Шайсултанова](https://up.htmlacademy.ru/javascript-individual/2/user/171670).
+- Наставник: [Алексей Хапов](https://htmlacademy.ru/profile/id118459).
+- Сайт: [Проект Кекстаграм](https://github.com/timeria/171670-kekstagram-2/)
 
 ---
 
