@@ -19,9 +19,7 @@ const getNumberFromString = (string) => {
   let newString = string.replace(/\D/g, "");
   return parseInt(newString, 10);
 };
-
 console.log(getNumberFromString("1 кефир, 0.5 батоналет"));
-
 function validateMeetingWithinWorkHours(
   workStart,
   workEnd,
