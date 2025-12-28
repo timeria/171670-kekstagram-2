@@ -1,3 +1,7 @@
 import { createPhoto } from "./data.js";
+import { renderPhoto } from "./photos.js";
+import { openBigPhoto } from "./photos-modal.js";
 
-console.log(createPhoto);
+renderPhoto(createPhoto);
+
+openBigPhoto(createPhoto);
